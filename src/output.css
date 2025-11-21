@@ -160,20 +160,11 @@
   }
 }
 @layer utilities {
-  .m-auto {
-    margin: auto;
-  }
-  .ml-\[144px\] {
-    margin-left: 144px;
-  }
   .flex {
     display: flex;
   }
   .h-\[80px\] {
     height: 80px;
-  }
-  .h-\[1000px\] {
-    height: 1000px;
   }
   .w-\[100\%\] {
     width: 100%;
@@ -186,9 +177,6 @@
   }
   .gap-\[8px\] {
     gap: 8px;
-  }
-  .gap-\[16px\] {
-    gap: 16px;
   }
   .gap-\[32px\] {
     gap: 32px;
@@ -203,32 +191,14 @@
   .border-\[\#FFD063\] {
     border-color: #FFD063;
   }
-  .bg-\[\#013A4C\] {
-    background-color: #013A4C;
-  }
   .bg-\[\#FFD063\] {
     background-color: #FFD063;
   }
   .px-\[17px\] {
     padding-inline: 17px;
   }
-  .px-\[21px\] {
-    padding-inline: 21px;
-  }
   .py-\[11px\] {
     padding-block: 11px;
-  }
-  .py-\[17px\] {
-    padding-block: 17px;
-  }
-  .pt-\[25px\] {
-    padding-top: 25px;
-  }
-  .pt-\[31px\] {
-    padding-top: 31px;
-  }
-  .pt-\[210px\] {
-    padding-top: 210px;
   }
   .pr-\[24px\] {
     padding-right: 24px;
@@ -239,20 +209,8 @@
   .text-\[18px\] {
     font-size: 18px;
   }
-  .text-\[22px\] {
-    font-size: 22px;
-  }
-  .text-\[30px\] {
-    font-size: 30px;
-  }
-  .text-\[100px\] {
-    font-size: 100px;
-  }
   .text-\[\#013A4C\] {
     color: #013A4C;
-  }
-  .text-\[\#FFFFFF\] {
-    color: #FFFFFF;
   }
 }
 @property --tw-border-style {

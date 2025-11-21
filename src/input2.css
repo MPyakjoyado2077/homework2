@@ -1,5 +1,20 @@
-.kampir{
-    background-image: url(.//Rectangle\ \(2\).png);
+.lox{
+    background-image: url(./surat/Rectangle\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.lox2{
+    background-image: url(./surat/Снимок\ экрана\ от\ 2021-07-02\ 23-48-24\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg{
+    background-image: url(./surat/Rectangle\ \(12\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg1{
+    background-image: url(./surat/Rectangle\ \(13\).png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
